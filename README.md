@@ -17,10 +17,15 @@ Anonymous records of Department of Geophysics alumni current residence and level
 - Matplotlib
 - Pandas
 ## Planned methodology/approach:
-- Compile alumn by filtering by state.
+- Compile alumni by filtering by state.
 - Split the compiled state data by level of degree obtained.
 - Plot data filtered by state.
 - etc.
 ## Expected outcomes:
+As an outcome of this project, we expect to produce a comprehensive map plotting the residency of Mines alumnni from the Department of Geophysics.
+
+This information will be useful as a promotional tool for the geophysics program at Mines.
 ## Any other relevant information, images/tables, references, etc.:
-## References: Melinda Gale
+To respect the privacy and anonymity of alumni, the plotting of residency will be detailed no further than state and level of degree obtained for each alumn.
+## References:
+Melinda Gale
