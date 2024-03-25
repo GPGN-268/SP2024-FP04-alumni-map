@@ -12,6 +12,7 @@ Additionally, we are interested in understanding whether the level of degree obt
 Create a comprehensive map of the current residence of Mines Geophysics alumni.
 ## Datasets:
 Anonymous records of Department of Geophysics alumni current residence and level of degree obtained.
+[GP Alumni List](https://github.com/GPGN-268/SP2024-FP04-alumni-map/blob/6131c6380ba5bcbf34a334e886e667b6c3157e90/data/GP_Alumni_List.csv)
 ## Tools/packages: 
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
