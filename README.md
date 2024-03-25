@@ -13,14 +13,16 @@ Create a comprehensive map of the current residence of Mines Geophysics alumni.
 ## Datasets:
 Anonymous records of Department of Geophysics alumni current residence and level of degree obtained.
 ## Tools/packages: 
-- Numpy
-- Matplotlib
-- Pandas
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Pandas](https://pandas.pydata.org/)
 ## Planned methodology/approach:
 - Compile alumni by filtering by state.
 - Split the compiled state data by level of degree obtained.
 - Plot data filtered by state.
 - etc.
+## Present/Anticipated Challenges:
+- Transferring data to a visually representative form (map).
 ## Expected outcomes:
 As an outcome of this project, we expect to produce a comprehensive map plotting the residency of Mines alumnni from the Department of Geophysics.
 
