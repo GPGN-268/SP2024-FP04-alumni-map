@@ -2,34 +2,49 @@
 ## GP100 Alumni Map
 ## Members: 
 Max Ercolani (@MaxErcGP), Renee Fischer (@Renee-Fischer) , Jackson Howard (@jacksonhoward1856)
-## Summary: 
-For the GP@100 website, we are creating a map of where all Mines Geophysics almuni are currently living. We will also be utilizing data analysis to describe and understand the data.
-## Background info:
-We are interested in understanding patterns in where alumni take residence following graduation from the Mines Department of Geophysics.
 
-Additionally, we are interested in understanding whether the level of degree obtained has additional influence in post-grad residence.
+## Summary: 
+For the 100th anniversary of Geophysics at Mines (GP@100) website, we have created maps of where Mines GP almuni are currently living. We also utilized data analysis to describe and understand trends in the data we have of Mines GP alumni.
+
+## Background info:
+We were interested in understanding patterns in where alumni take residence following graduation from the Mines Department of Geophysics. We also wanted to understand trends in atributes like graduation year and degree type of GP alumni.
+
 ## Objective:
-Create a comprehensive map of the current residence of Mines Geophysics alumni.
+Create a comprehensive map of the current residence of Mines Geophysics alumni, and analyze trends.
+
 ## Datasets:
-Anonymous records of Department of Geophysics alumni current residence and level of degree obtained.
+Anonymous records of Department of Geophysics alumni; state and country residence, graduation year, and level of degree obtained.
 
 [GP Alumni List](https://github.com/GPGN-268/SP2024-FP04-alumni-map/blob/6131c6380ba5bcbf34a334e886e667b6c3157e90/data/GP_Alumni_List.csv)
+
 ## Tools/packages: 
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Pandas](https://pandas.pydata.org/)
-## Planned methodology/approach:
-- Compile alumni by filtering by state.
+- [CartoPy](https://scitools.org.uk/cartopy/docs/latest/installing.html)
+- [GeoPandas](https://geopandas.org/en/stable/)
+- [GeoPy](https://geopy.readthedocs.io/en/stable/)
+- [Shapely](https://shapely.readthedocs.io/en/stable/)
+  
+##  Methodology/approach:
+- Compile alumni data by filtering by state and country.
 - Split the compiled state data by level of degree obtained.
-- Plot data filtered by state.
-- etc.
-## Present/Anticipated Challenges:
-- Transferring data to a visually representative form (map).
-## Expected outcomes:
-As an outcome of this project, we expect to produce a comprehensive map plotting the residency of Mines alumnni from the Department of Geophysics.
+- Visualize data with simple graphs.
+- Use Python GIS (Geographical Information System) plotting tools to make maps.
 
-This information will be useful as a promotional tool for the geophysics program at Mines.
+## Challenges:
+- Cleaning the data so that it can be manipulated easily.
+- Transferring data to a visually representative form (map).
+- Working with geographical plotting tools.
+  
+## Outcomes:
+- Produced comprehensive maps to visualize GP Alumni distributions geographically.
+- Produced various figures visualizing the distribution of graduation rates and degree types.
+- This information will be useful as a promotional tool for the geophysics program at Mines.
+
 ## Any other relevant information, images/tables, references, etc.:
 To respect the privacy and anonymity of alumni, the plotting of residency will be detailed no further than state and level of degree obtained for each alumn.
+
 ## References:
-Melinda Gale
+Melinda Gale - Client and Data Acquisition
+ChatGPT - Debugging
