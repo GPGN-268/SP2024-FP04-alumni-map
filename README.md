@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GPGN-268/SP2024-FP04-alumni-map/HEAD)
+
 # SP2024-FP04-alumni-map
 ## GP100 Alumni Map
 ## Members: 
