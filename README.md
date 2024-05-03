@@ -43,8 +43,12 @@ Anonymous records of Department of Geophysics alumni; state and country residenc
 - This information will be useful as a promotional tool for the geophysics program at Mines.
 
 ## Any other relevant information, images/tables, references, etc.:
-To respect the privacy and anonymity of alumni, the plotting of residency will be detailed no further than state and level of degree obtained for each alumn.
+To respect the privacy and anonymity of alumni, the plotting of residency will be detailed no further than state and level of degree obtained for each alum.
+
+![Global Alumni Map](https://github.com/GPGN-268/SP2024-FP04-alumni-map/blob/main/figures/Global_GP_Alum_Map.png)
+![US Alumni Map](https://github.com/GPGN-268/SP2024-FP04-alumni-map/blob/main/figures/US_GP_Alum_Map.png)
 
 ## References:
 Melinda Gale - Client and Data Acquisition
+Previously mentioned packages and libraries
 ChatGPT - Debugging
